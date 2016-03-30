@@ -1,0 +1,16 @@
+body {
+  padding: 2em;
+}
+
+.row-cen {
+    text-align:center;
+}
+
+.col-cen {
+    display:inline-block;
+    float:none;
+}
+
+a:hover {
+	cursor: pointer;
+}
